@@ -1,0 +1,38 @@
+@media (max-width:569px) {
+    .card {
+        width: 90vw;
+        height: 60vh;
+    }
+    .titulo {
+        width: 90vw;
+        height:3vh;
+        text-transform: capitalize;
+        align-items: start;
+    }
+    .conteudo {
+        width: 65vw;
+        height: 30vh;
+    }
+    .borda img {
+        width: 110px;
+        height: 45px;
+        margin: -9px;
+    }
+    .borda hr {
+        width: 73vw;
+    }
+    .borda {
+        width: 73vw;
+    }
+    .dado {
+        top: 76vh;
+    }
+    .dado {
+        width: 65px;
+        height: 65px;
+    }
+    .dado img {
+        width: 30px;
+        height: 30px;
+    }
+}
